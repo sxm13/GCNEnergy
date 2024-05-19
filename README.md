@@ -14,7 +14,7 @@ PBE energy & Bandgap Prediction by GCN models (Train from QMOF Database)
 
 ```sh
 git clone https://github.com/sxm13/GCNEnergy.git
-cd PACMAN
+cd GCNEnergy
 pip install -r requirements.txt
 ```                            
          
