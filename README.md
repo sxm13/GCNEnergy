@@ -25,23 +25,16 @@ python GCNEnergy.py folder-name[path]
 ```                          
 * folder-name: relative path to a folder with cif files without partial atomic charges                            
           
-# Zenodo    
-* Full code and dataset can be downloaded from :point_right: [link](https://zenodo.org/records/10822403)
-* Note: All future releases will be uploaded on Github.
 
 # Reference
-If you use PACMAN charge, please consider citing [this paper]():
+If you use GCN Energy, please consider citing [this paper](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00434):                                           
 ```bib
 @article{,
-    title={PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials using Crystal Graph Convolution Network},
-    DOI={},
-    journal={},
+    title={PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials based on Crystal Graph Convolution Network},
+    DOI={10.1021/acs.jctc.4c00434},
+    journal={Journal of Chemical Theory and Computation},
     author={Zhao, Guobin and Chung, Yongchul},
     year={2024},
     pages={}
 }
 ```
-
-# Bugs
-
- If you encounter any problem during using **GCN Energy**, please email ```sxmzhaogb@gmail.com``` or create "issues".
