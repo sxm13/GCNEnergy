@@ -34,7 +34,6 @@ If you use GCN Energy, please consider citing [this paper](https://pubs.acs.org/
     DOI={10.1021/acs.jctc.4c00434},
     journal={Journal of Chemical Theory and Computation},
     author={Zhao, Guobin and Chung, Yongchul},
-    year={2024},
-    pages={}
+    year={2024}
 }
 ```
