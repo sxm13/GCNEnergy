@@ -24,7 +24,10 @@ pip install -r requirements.txt
 python GCNEnergy.py folder-name[path]
 ```                          
 * folder-name: relative path to a folder with cif files without partial atomic charges                            
-          
+
+# Models Performance                                    
+<img src="./figs/result.png" alt="result" width="500">   
+
 
 # Reference
 If you use GCN Energy, please consider citing [this paper](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00434):                                           
