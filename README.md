@@ -26,7 +26,7 @@ python GCNEnergy.py folder-name[path]
 * folder-name: relative path to a folder with cif files without partial atomic charges                            
 
 # Models Performance                                    
-<img src="./figs/result.png" alt="result" width="500">   
+<img src="./figs/results.png" alt="result" width="500">   
 
 
 # Reference
